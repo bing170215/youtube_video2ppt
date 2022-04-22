@@ -1,9 +1,6 @@
 #@Author:   Casserole fish
 #@Time:    2022/4/21 23:09
 
-import pytube
-from pathlib import Path
-import argparse
 import cv2
 import numpy as np
 from img2ppt import create_ppt
